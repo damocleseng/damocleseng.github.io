@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: Damocles
 url: "https://damocles.in"
 baseurl:
 google_analytics_key:
@@ -11,10 +11,11 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Put all the movie and TV Series you have watched to good use. Learn words for GRE/CAT/GMAT using Damocles in an all new way.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+keywords: 'GRE, GMAT, CAT, english preparation, english tips, gre verbal, verbal, new words, magoosh, kaplan'
+author: 
+  name: Anuj Menta
+  email:anujmenta@gmail.com
+  twitter: anujmenta
 social:
   name: Damoles
   links:
